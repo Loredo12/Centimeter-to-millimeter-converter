@@ -5,7 +5,7 @@ int main() {//this is the main medtod for the whole program
     int choice; // variable to store the user's menu choice
     float value; // variable to store user input value
 
-	//all cout is to display and instruction for mune
+	//all cout is to display and instruction for menu
     cout<<"===================================================="<<endl;
 	cout<<"|                                                  |"<<endl;
 	cout<<"|                   CONVERTER                      |"<<endl;
